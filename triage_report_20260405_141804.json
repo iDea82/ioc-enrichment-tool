@@ -1,0 +1,192 @@
+[
+    {
+        "ioc": "185.220.101.45",
+        "verdict": "MALICIOUS",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 17,
+            "suspicious_engines": 3,
+            "total_engines": 94,
+            "raw_stats": {
+                "malicious": 17,
+                "suspicious": 3,
+                "undetected": 28,
+                "harmless": 46,
+                "timeout": 0
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "abuse_confidence_score": 100,
+            "total_reports": 97,
+            "country": "DE",
+            "isp": "Network for Tor-Exit traffic.",
+            "is_tor": true
+        }
+    },
+    {
+        "ioc": "8.8.8.8",
+        "verdict": "CLEAN",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 0,
+            "suspicious_engines": 0,
+            "total_engines": 94,
+            "raw_stats": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 35,
+                "harmless": 59,
+                "timeout": 0
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "abuse_confidence_score": 0,
+            "total_reports": 29,
+            "country": "US",
+            "isp": "Google LLC",
+            "is_tor": false
+        }
+    },
+    {
+        "ioc": "44d88612fea8a8f36de82e1278abb02f",
+        "verdict": "MALICIOUS",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 67,
+            "suspicious_engines": 0,
+            "total_engines": 76,
+            "raw_stats": {
+                "malicious": 67,
+                "suspicious": 0,
+                "undetected": 2,
+                "harmless": 0,
+                "timeout": 0,
+                "confirmed-timeout": 0,
+                "failure": 0,
+                "type-unsupported": 7
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "skipped": "Not an IP address"
+        }
+    },
+    {
+        "ioc": "google.com",
+        "verdict": "CLEAN",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 0,
+            "suspicious_engines": 0,
+            "total_engines": 94,
+            "raw_stats": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 27,
+                "harmless": 67,
+                "timeout": 0
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "skipped": "Not an IP address"
+        }
+    },
+    {
+        "ioc": "198.199.10.234",
+        "verdict": "CLEAN",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 0,
+            "suspicious_engines": 0,
+            "total_engines": 94,
+            "raw_stats": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 94,
+                "harmless": 0,
+                "timeout": 0
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "abuse_confidence_score": 0,
+            "total_reports": 0,
+            "country": "US",
+            "isp": "Bell Textron Inc",
+            "is_tor": false
+        }
+    },
+    {
+        "ioc": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+        "verdict": "MALICIOUS",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 67,
+            "suspicious_engines": 0,
+            "total_engines": 76,
+            "raw_stats": {
+                "malicious": 67,
+                "suspicious": 0,
+                "undetected": 2,
+                "harmless": 0,
+                "timeout": 0,
+                "confirmed-timeout": 0,
+                "failure": 0,
+                "type-unsupported": 7
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "skipped": "Not an IP address"
+        }
+    },
+    {
+        "ioc": "malware.wicar.org",
+        "verdict": "MALICIOUS",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 14,
+            "suspicious_engines": 1,
+            "total_engines": 94,
+            "raw_stats": {
+                "malicious": 14,
+                "suspicious": 1,
+                "undetected": 31,
+                "harmless": 48,
+                "timeout": 0
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "skipped": "Not an IP address"
+        }
+    },
+    {
+        "ioc": "1.1.1.1",
+        "verdict": "CLEAN",
+        "virustotal": {
+            "source": "VirusTotal",
+            "malicious_engines": 0,
+            "suspicious_engines": 0,
+            "total_engines": 94,
+            "raw_stats": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 31,
+                "harmless": 63,
+                "timeout": 0
+            }
+        },
+        "abuseipdb": {
+            "source": "AbuseIPDB",
+            "abuse_confidence_score": 0,
+            "total_reports": 214,
+            "country": "AU",
+            "isp": "APNIC and Cloudflare DNS Resolver project",
+            "is_tor": false
+        }
+    }
+]

@@ -1,0 +1,12 @@
+# Never upload API keys
+config.py
+
+# Virtual environment — not needed on GitHub
+venv/
+
+# Auto-generated reports
+triage_report_*.json
+
+# Python cache files
+__pycache__/
+*.pyc
